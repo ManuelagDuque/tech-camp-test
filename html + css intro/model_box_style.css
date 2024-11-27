@@ -1,0 +1,31 @@
+*{
+    height: 100%;
+    margin: 0;
+}
+
+header{
+    border: 5px solid rgb(255, 87, 51 );
+    height: 10%;
+}
+
+main{
+    border: 5px solid rgb(85, 255, 51);
+}
+
+aside{
+    border: 5px solid rgb(248, 51, 255);
+}
+
+footer{
+    border: 5px solid rgb(51, 65, 255);
+    height: 10%;
+}
+
+main, aside{
+    display: inline-block;
+    margin: 0;
+    height: 60%;
+    width: 48.7%;
+} 
+
+
